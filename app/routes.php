@@ -15,3 +15,8 @@ Route::get('/', function()
 {
 	return View::make('hello');
 });
+
+Route::get('{type}/{detail}', function($type,$detail)
+{
+    return View::make($type.'.'.$detail);
+});

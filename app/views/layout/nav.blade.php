@@ -1,0 +1,13 @@
+<nav>
+	<ul>
+		<li>
+			<span>Jobs</span>
+			<ul>
+				<li>Paladin</li>
+			</ul>
+		</li>
+		<li>
+			<span>Items</span>
+		</li>
+	</ul>
+</nav>
